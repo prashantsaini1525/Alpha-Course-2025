@@ -1,4 +1,4 @@
-.class
-.vscode/
-.log
-.tmp
+*.class
+*.vscode/
+*.log
+*.tmp
