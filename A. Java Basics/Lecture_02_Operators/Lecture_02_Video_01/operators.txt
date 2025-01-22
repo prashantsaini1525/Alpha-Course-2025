@@ -1,0 +1,157 @@
+Operators in Java :
+
+Symbols that tell compiler to perfor some operation.
+
+Ex: 1. Sum = a + b 
+    2. Sub = a - b
+    3. MUL = a * b
+    4. Divide = a / b
+
+You can see this in the following above example "a" & "b" are the operands and the symbole of add "+", "-", "*", "/" are operator.
+
+
+----------------------------------------------------------------
+Types of Operators in Java :
+
+#1. Arithmetic operators/Binary Operators : +, -, *, /, %, 
+1.1 Arithmetic operators/Unary Operators : ++, --
+
+#2. Relational operators : <, >, <=, >=, ==,!=
+
+#3. Logical operators : &&, ||,!
+
+#4. Conditional operators :?, :
+
+#5. Assignment operators : =, +=, -=, *=, /=, %=
+
+#6. Bitwise operators : &, |, ^, ~, <<, >>
+
+#7.Type casting operators : (type) variable
+
+----------------------------------------------------------------
+#1. Arithmetic operators/Binary Operators : +, -, *, /, %, 
+
+    "+" = Additon
+    "-" = Subtraction
+    "*" = Multiplication
+    "/" = Division
+    "/" = Modulus
+
+1.1 Unary Operators : ++, --
+
+a = a + 1;      (++)increment operator    a++;  ++a;
+a = a - 1;      (--)decrement operator    a--;  --a;        
+
+1.2 Increment Operators : Two types of increment operators
+
+A. Pre increment : (++a Value change first and then value will use)
+B. Post increment : (--a Value use First and then value will use)
+
+1.3 Decrement Operators : Two types of decrement operators
+
+A. Pre decrement : (--a Value change first and then value will use)
+b. Post decrement : (--a Value use First and then value will use)
+
+----------------------------------------------------------------
+
+#2. Relational Operators: <, >, <=, >=, ==, !=
+
+    "<" = Less than 
+    ">" = Greater than 
+    "<=" = Less than Equal to
+    "<=" = Greater than Equal to
+    "==" = Equal to
+    "!=" = Not equal to
+
+----------------------------------------------------------------
+
+#3. Logical operators : &&, ||, !
+
+
+            "&&" = Logical And
+            "||" = Logical Or
+            "!" =  Logical Not
+
+
+(A) :       "&&" = Logical And
+
+        Statement1 | Statement2 |  Ans 
+            True   |    False   | False
+            False  |    True    | False
+            False  |    False   | False
+            True   |    True    | True
+
+
+(B) :       "||" = Logical Or
+
+        Statement1 | Statement2 |  Ans 
+            True   |    False   | True
+            False  |    True    | True
+            True   |    True    | True
+            False  |    False   | False
+
+
+(C) :       "!" =  Logical Not
+
+        Statement1 |    Ans 
+            True   |    False   
+            False  |    True   
+
+----------------------------------------------------------------
+
+#5. Assignment operators : =, +=, -=, *=, /=, %=
+
+    1. Simple Assignment Operator (=)
+    2. Add and Assign Operator (+=)
+    3. Subtract and Assign Operator (-=)
+    4. Multiply and Assign Operator (*=)
+    5. Divide and Assign Operator (/=)
+    6. Modulus and Assign Operator (%=)
+    7. Bitwise AND and Assign Operator (&=)
+    8. Bitwise OR and Assign Operator (|=)
+    9. Bitwise XOR and Assign Operator (^=)
+
+     1. Simple Assignment Operator (=) :
+
+        int x = 10; // Assigns 10 to x
+
+    2. Add and Assign Operator (+=) :
+
+        int x = 10;
+        x += 5; // Equivalent to x = x + 5; x is now 15
+
+    3. Subtract and Assign Operator (-=) :
+
+        int x = 10;
+        x -= 3; // Equivalent to x = x - 3; x is now 7
+
+    4. Multiply and Assign Operator (*=) :
+
+        int x = 10;
+        x *= 2; // Equivalent to x = x * 2; x is now 20
+
+    5. Divide and Assign Operator (/=) :
+
+        int x = 10;
+        x /= 2; // Equivalent to x = x / 2; x is now 5
+
+    6. Modulus and Assign Operator (%=) :
+
+        int x = 10;
+        x %= 3; // Equivalent to x = x % 3; x is now 1
+
+    7. Bitwise AND and Assign Operator (&=) :
+
+        int x = 5; // binary: 0101
+        x &= 3;    // binary: 0011; x is now 1 (binary: 0001)
+
+    8. Bitwise OR and Assign Operator (|=) :
+
+        int x = 5; // binary: 0101
+        x |= 3;    // binary: 0011; x is now 7 (binary: 0111)
+
+    9. Bitwise XOR and Assign Operator (^=) :
+
+        int x = 5; // binary: 0101
+        x ^= 3;    // binary: 0011; x is now 6 (binary: 0110)
+

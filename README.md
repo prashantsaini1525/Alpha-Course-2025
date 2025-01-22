@@ -27,7 +27,7 @@ AND THEN IF YOU WANT TO BACK TO ONE FOLDER OR PARENT FOLDER YOU HAVE TO WRITE IN
   - Type casting
 
 ## Lecture 02 - Operators
-- **Videos**: Lecture_02_Video_01 to Lecture_02_Video_XX
+- **Videos**: Lecture_02_Video_01 to Lecture_02_Video_
 - Description: Learn the different operators in Java.
 - Concepts covered:
   - Arithmetic Operators
