@@ -20,9 +20,9 @@ Types of Operators in Java :
 
 #3. Logical operators : &&, ||,!
 
-#4. Conditional operators :?, :
+#4. Assignment operators : =, +=, -=, *=, /=, %=
 
-#5. Assignment operators : =, +=, -=, *=, /=, %=
+#5. Conditional operators :?, :
 
 #6. Bitwise operators : &, |, ^, ~, <<, >>
 
@@ -99,7 +99,7 @@ b. Post decrement : (--a Value use First and then value will use)
 
 ----------------------------------------------------------------
 
-#5. Assignment operators : =, +=, -=, *=, /=, %=
+#4. Assignment operators : =, +=, -=, *=, /=, %=
 
     1. Simple Assignment Operator (=)
     2. Add and Assign Operator (+=)
@@ -155,3 +155,4 @@ b. Post decrement : (--a Value use First and then value will use)
         int x = 5; // binary: 0101
         x ^= 3;    // binary: 0011; x is now 6 (binary: 0110)
 
+----------------------------------------------------------------
