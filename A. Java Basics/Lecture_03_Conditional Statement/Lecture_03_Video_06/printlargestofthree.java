@@ -2,9 +2,9 @@
 public class printlargestofthree {
 
     public static void main(String[] args) {
-        int A = 10;
-        int B = 20;
-        int C = 5;
+        int A = 1;
+        int B = 3;
+        int C = 6;
 
         if (A >= B && A >= C) {
             System.out.println("A : I'm The Largest Of Three");
