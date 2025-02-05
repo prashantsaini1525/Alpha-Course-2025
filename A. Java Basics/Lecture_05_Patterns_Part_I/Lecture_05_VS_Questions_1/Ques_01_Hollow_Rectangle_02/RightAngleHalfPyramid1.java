@@ -1,3 +1,4 @@
+package Ques_01_Hollow_Rectangle_02;
 public class RightAngleHalfPyramid1 {
     public static void main(String[] args) {
 

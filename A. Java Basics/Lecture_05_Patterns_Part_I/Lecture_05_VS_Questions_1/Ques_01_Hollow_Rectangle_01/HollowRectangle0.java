@@ -1,3 +1,4 @@
+package Ques_01_Hollow_Rectangle_01;
 public class HollowRectangle0 {
     public static void main(String[] args) {
 

@@ -1,3 +1,4 @@
+package Ques_01_Hollow_Rectangle_02;
 
 public class BottomHalfPyramid5 {
 
