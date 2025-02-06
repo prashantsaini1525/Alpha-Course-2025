@@ -36,7 +36,7 @@ AND THEN IF YOU WANT TO BACK TO ONE FOLDER OR PARENT FOLDER YOU HAVE TO WRITE IN
   - Assignment Operators
 
 ## Lecture 03 - Conditional Statements
-- **Videos**: Lecture_03_Video_01 to Lecture_03_Video_XX
+- **Videos**: Lecture_03_Video_01 to Lecture_03_Video_10
 - Description: Dive into conditional statements in Java.
 - Concepts covered:
   - If-else statements
@@ -44,14 +44,14 @@ AND THEN IF YOU WANT TO BACK TO ONE FOLDER OR PARENT FOLDER YOU HAVE TO WRITE IN
   - Nested conditionals
 
 ## Lecture 04 - Loops (Flow Control)
-- **Videos**: Lecture_04_Video_01 to Lecture_04_Video_XX
+- **Videos**: Lecture_04_Video_01 to Lecture_04_Video_15
 - Description: Learn how to use loops for repetitive tasks.
 - Concepts covered:
   - `for`, `while`, `do-while` loops
   - Break and Continue statements
 
 ## Lecture 05 - Patterns (Part I)
-- **Videos**: Lecture_05_Video_01 to Lecture_05_Video_XX
+- **Videos**: Lecture_05_Video_01 to Lecture_05_Video_04
 - Description: Explore pattern printing in Java (Part I).
 - Concepts covered:
   - Basic patterns
