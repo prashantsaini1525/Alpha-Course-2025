@@ -58,7 +58,7 @@ AND THEN IF YOU WANT TO BACK TO ONE FOLDER OR PARENT FOLDER YOU HAVE TO WRITE IN
   - Nested loops for pattern printing
 
 ## Lecture 06 - Functions & Methods
-- **Videos**: Lecture_06_Video_01 to Lecture_06_Video_XX
+- **Videos**: Lecture_06_Video_01 to Lecture_06_Video_22
 - Description: Introduction to functions and methods in Java.
 - Concepts covered:
   - Function declaration and definition
