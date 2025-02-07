@@ -1,5 +1,6 @@
 public class Swap {
     public static void main(String[] args) {
+        //swap - values exchange
         int a = 5;
         int b = 10;
 

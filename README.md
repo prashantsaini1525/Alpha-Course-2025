@@ -3,75 +3,121 @@ AND THEN IF YOU WANT TO BACK TO ONE FOLDER OR PARENT FOLDER YOU HAVE TO WRITE IN
 
 <!-- IF YOU WANT TO GO HOME DIRECTORY SIMPLY WRITE "cd ~" AND IF YOU WANT TO GO THE LAST FOLDER YOU WERE IN YOU HAVE TO WRITE "cd -" -->
 
-# Course: Java Programming - Alpha Course
+# Java Programming - Alpha Course
 
-## Table of Contents
+Welcome to the **Java Programming - Alpha Course**! This course will guide you through Java fundamentals with structured lectures, code examples, and solved exercises.  
 
-- [Lecture 01 - Variables and Data Types](#lecture-01---variables-and-data-types)
+---
+
+## 📌 Table of Contents
+
+- [Introduction](#introduction)
+- [Lecture 01 - Variables and Data Types](#lecture-01---variables--data-types)
 - [Lecture 02 - Operators](#lecture-02---operators)
 - [Lecture 03 - Conditional Statements](#lecture-03---conditional-statements)
 - [Lecture 04 - Loops (Flow Control)](#lecture-04---loops-flow-control)
 - [Lecture 05 - Patterns (Part I)](#lecture-05---patterns-part-i)
-- [Lecture 06 - Functions & Methods](#lecture-06---functions-methods)
-- [Lecture 07 - Advanced Patterns (Part II)](#lecture-07---advanced-patterns-part-ii)
+- [Lecture 06 - Functions & Methods](#lecture-06---functions--methods)
+- [💡 Exercises & Solved Questions](#-exercises--solved-questions)
 
 ---
 
-## Lecture 01 - Variables and Data Types
-- **Videos**: Lecture_01_Video_01 to Lecture_01_Video_18
-- Description: Introduction to variables and data types in Java.
-- Concepts covered:
-  - Data types in Java
-  - Variable declarations
-  - Constants
-  - Type casting
+## 📖 Introduction
+
+Each lecture contains:  
+✅ **Concept explanations**  
+✅ **Code examples**  
+✅ **Practice questions**  
+
+---
+
+## Lecture 01 - Variables & Data Types
+📌 **Videos**: Lecture_01_Video_01 to Lecture_01_Video_18  
+📌 **Code Folder**: [`Lecture_01_Variables and Data Types`](Lecture_01_Variables_and_DataTypes/)  
+📌 **Concepts Covered**:
+- Data types in Java
+- Variable declarations
+- Constants
+- Type casting  
+
+---
 
 ## Lecture 02 - Operators
-- **Videos**: Lecture_02_Video_01 to Lecture_02_Video_06
-- Description: Learn the different operators in Java.
-- Concepts covered:
-  - Arithmetic Operators
-  - Relational Operators
-  - Logical Operators
-  - Assignment Operators
-
-## Lecture 03 - Conditional Statements
-- **Videos**: Lecture_03_Video_01 to Lecture_03_Video_10
-- Description: Dive into conditional statements in Java.
-- Concepts covered:
-  - If-else statements
-  - Switch-case
-  - Nested conditionals
-
-## Lecture 04 - Loops (Flow Control)
-- **Videos**: Lecture_04_Video_01 to Lecture_04_Video_15
-- Description: Learn how to use loops for repetitive tasks.
-- Concepts covered:
-  - `for`, `while`, `do-while` loops
-  - Break and Continue statements
-
-## Lecture 05 - Patterns (Part I)
-- **Videos**: Lecture_05_Video_01 to Lecture_05_Video_04
-- Description: Explore pattern printing in Java (Part I).
-- Concepts covered:
-  - Basic patterns
-  - Nested loops for pattern printing
-
-## Lecture 06 - Functions & Methods
-- **Videos**: Lecture_06_Video_01 to Lecture_06_Video_22
-- Description: Introduction to functions and methods in Java.
-- Concepts covered:
-  - Function declaration and definition
-  - Method overloading
-  - Return types and arguments
-
-## Lecture 07 - Advanced Patterns (Part II)
-- **Videos**: Lecture_07_Video_01 to Lecture_07_Video_XX
-- Description: Advanced pattern printing techniques in Java (Part II).
-- Concepts covered:
-  - Complex patterns
-  - Nested loops and recursion for patterns
+📌 **Videos**: Lecture_02_Video_01 to Lecture_02_Video_06  
+📌 **Code Folder**: [`Lecture_02_Operators`](Lecture_02_Operators/)  
+📌 **Concepts Covered**:
+- Arithmetic Operators
+- Relational Operators
+- Logical Operators
+- Assignment Operators  
 
 ---
 
-> **Note**: For detailed explanations and examples, please refer to each lecture Code.
+## Lecture 03 - Conditional Statements
+📌 **Videos**: Lecture_03_Video_01 to Lecture_03_Video_10  
+📌 **Code Folder**: [`Lecture_03_Conditional_Statement`](Lecture_03_Conditional_Statement/)  
+📌 **Concepts Covered**:
+- If-else statements
+- Switch-case
+- Nested conditionals  
+
+---
+
+## Lecture 04 - Loops (Flow Control)
+📌 **Videos**: Lecture_04_Video_01 to Lecture_04_Video_15  
+📌 **Code Folder**: [`Lecture_04_Loops_Flow_Control`](Lecture_04_Loops_Flow_Control/)  
+📌 **Concepts Covered**:
+- `for`, `while`, `do-while` loops
+- Break and Continue statements  
+
+---
+
+## Lecture 05 - Patterns (Part I)
+📌 **Videos**: Lecture_05_Video_01 to Lecture_05_Video_04  
+📌 **Code Folder**: [`Lecture_05_Patterns_Part_I`](Lecture_05_Patterns_Part_I/)  
+📌 **Concepts Covered**:
+- Basic patterns
+- Nested loops for pattern printing  
+
+---
+
+## Lecture 06 - Functions & Methods
+📌 **Videos**: Lecture_06_Video_01 to Lecture_06_Video_22  
+📌 **Code Folder**: [`Lecture_06_Function _ Methods`](Lecture_06_Function_Methods/)  
+📌 **Concepts Covered**:
+- Function declaration and definition
+- Method overloading
+- Return types and arguments  
+
+---
+
+## 💡 Exercises & Solved Questions
+
+## 💡 Exercises & Solved Questions
+
+Each lecture contains a **VS_Questions** folder with solved problems for practice.
+
+| **Lecture**   | **Question Folder(s)** |
+|--------------|----------------------|
+| **Lecture 01** | [`Lecture_01_VS_Questions`](Lecture_01_Variables_and_Data_Types/Lecture_01_VS_Questions/) |
+| **Lecture 02** | [`Lecture_02_VS_Questions`](Lecture_02_Operators/Lecture_02_VS_Questions/) |
+| **Lecture 03** | [`Lecture_03_VS_Questions`](Lecture_03_Conditional_Statement/Lecture_03_VS_Questions/) <br> [`Lecture_03_VS_Questions_1`](Lecture_03_Conditional_Statement/Lecture_03_VS_Questions_1/) |
+| **Lecture 04** | [`Lecture_04_VS_Questions_0_while_loop`](Lecture_04_Loops_Flow_Control/Lecture_04_VS_Questions_0_while_loop/) <br> [`Lecture_04_VS_Questions_1`](Lecture_04_Loops_Flow_Control/Lecture_04_VS_Questions_1/) <br> [`Lecture_04_VS_Questions_2`](Lecture_04_Loops_Flow_Control/Lecture_04_VS_Questions_2/) |
+| **Lecture 05** | [`Lecture_05_VS_Questions_1`](Lecture_05_Patterns_Part_I/Lecture_05_VS_Questions_1/) |
+| **Lecture 06** | [`Lecture_06_VS_Questions_1`](Lecture_06_Function_Methods/Lecture_06_VS_Questions_1/) |
+
+
+---
+
+## 🏆 How to Use This Course
+
+1. **Watch the videos** to understand the concepts.
+2. **Check the code folder** to see working examples.
+3. **Practice questions** from the question folders.
+4. **Modify and experiment** with the code to strengthen your understanding.
+5. **Stay consistent** and complete the exercises.  
+
+Happy Coding! 🚀  
+
+---
+
