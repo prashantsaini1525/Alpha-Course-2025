@@ -93,19 +93,16 @@ Each lecture contains:
 
 ## 💡 Exercises & Solved Questions
 
-## 💡 Exercises & Solved Questions
-
 Each lecture contains a **VS_Questions** folder with solved problems for practice.
 
 | **Lecture**   | **Question Folder(s)** |
 |--------------|----------------------|
-| **Lecture 01** | [`Lecture_01_VS_Questions`](Lecture_01_Variables_and_Data_Types/Lecture_01_VS_Questions/) |
+| **Lecture 01** | [`Lecture_01_VS_Questions`](https://github.com/prashantsaini1525/Alpha-Course-/tree/main/A.%20Java%20Basics/Lecture_01_Variables_and_DataTypes) |
 | **Lecture 02** | [`Lecture_02_VS_Questions`](Lecture_02_Operators/Lecture_02_VS_Questions/) |
 | **Lecture 03** | [`Lecture_03_VS_Questions`](Lecture_03_Conditional_Statement/Lecture_03_VS_Questions/) <br> [`Lecture_03_VS_Questions_1`](Lecture_03_Conditional_Statement/Lecture_03_VS_Questions_1/) |
 | **Lecture 04** | [`Lecture_04_VS_Questions_0_while_loop`](Lecture_04_Loops_Flow_Control/Lecture_04_VS_Questions_0_while_loop/) <br> [`Lecture_04_VS_Questions_1`](Lecture_04_Loops_Flow_Control/Lecture_04_VS_Questions_1/) <br> [`Lecture_04_VS_Questions_2`](Lecture_04_Loops_Flow_Control/Lecture_04_VS_Questions_2/) |
 | **Lecture 05** | [`Lecture_05_VS_Questions_1`](Lecture_05_Patterns_Part_I/Lecture_05_VS_Questions_1/) |
 | **Lecture 06** | [`Lecture_06_VS_Questions_1`](Lecture_06_Function_Methods/Lecture_06_VS_Questions_1/) |
-
 
 ---
 
