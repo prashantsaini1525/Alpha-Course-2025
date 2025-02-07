@@ -33,7 +33,7 @@ Each lecture contains:
 
 ## Lecture 01 - Variables & Data Types
 📌 **Videos**: Lecture_01_Video_01 to Lecture_01_Video_18  
-📌 **Code Folder**: [`Lecture_01_Variables and Data Types`](Lecture_01_Variables_and_DataTypes/)  
+📌 **Code Folder**: [`Lecture_01_Variables and Data Types`](https://github.com/prashantsaini1525/Alpha-Course-/tree/main/A.%20Java%20Basics/Lecture_01_Variables_and_DataTypes)  
 📌 **Concepts Covered**:
 - Data types in Java
 - Variable declarations
@@ -44,7 +44,7 @@ Each lecture contains:
 
 ## Lecture 02 - Operators
 📌 **Videos**: Lecture_02_Video_01 to Lecture_02_Video_06  
-📌 **Code Folder**: [`Lecture_02_Operators`](Lecture_02_Operators/)  
+📌 **Code Folder**: [`Lecture_02_Operators`](https://github.com/prashantsaini1525/Alpha-Course-/tree/main/A.%20Java%20Basics/Lecture_02_Operators)  
 📌 **Concepts Covered**:
 - Arithmetic Operators
 - Relational Operators
@@ -55,7 +55,7 @@ Each lecture contains:
 
 ## Lecture 03 - Conditional Statements
 📌 **Videos**: Lecture_03_Video_01 to Lecture_03_Video_10  
-📌 **Code Folder**: [`Lecture_03_Conditional_Statement`](Lecture_03_Conditional_Statement/)  
+📌 **Code Folder**: [`Lecture_03_Conditional_Statement`](https://github.com/prashantsaini1525/Alpha-Course-/tree/main/A.%20Java%20Basics/Lecture_03_Conditional_Statement)  
 📌 **Concepts Covered**:
 - If-else statements
 - Switch-case
@@ -65,7 +65,7 @@ Each lecture contains:
 
 ## Lecture 04 - Loops (Flow Control)
 📌 **Videos**: Lecture_04_Video_01 to Lecture_04_Video_15  
-📌 **Code Folder**: [`Lecture_04_Loops_Flow_Control`](Lecture_04_Loops_Flow_Control/)  
+📌 **Code Folder**: [`Lecture_04_Loops_Flow_Control`](https://github.com/prashantsaini1525/Alpha-Course-/tree/main/A.%20Java%20Basics/Lecture_04_Loops_Flow_Control)  
 📌 **Concepts Covered**:
 - `for`, `while`, `do-while` loops
 - Break and Continue statements  
@@ -74,7 +74,7 @@ Each lecture contains:
 
 ## Lecture 05 - Patterns (Part I)
 📌 **Videos**: Lecture_05_Video_01 to Lecture_05_Video_04  
-📌 **Code Folder**: [`Lecture_05_Patterns_Part_I`](Lecture_05_Patterns_Part_I/)  
+📌 **Code Folder**: [`Lecture_05_Patterns_Part_I`](https://github.com/prashantsaini1525/Alpha-Course-/tree/main/A.%20Java%20Basics/Lecture_05_Patterns_Part_I)  
 📌 **Concepts Covered**:
 - Basic patterns
 - Nested loops for pattern printing  
@@ -83,7 +83,7 @@ Each lecture contains:
 
 ## Lecture 06 - Functions & Methods
 📌 **Videos**: Lecture_06_Video_01 to Lecture_06_Video_22  
-📌 **Code Folder**: [`Lecture_06_Function _ Methods`](Lecture_06_Function_Methods/)  
+📌 **Code Folder**: [`Lecture_06_Function _ Methods`](https://github.com/prashantsaini1525/Alpha-Course-/tree/main/A.%20Java%20Basics/Lecture_06_Function%20_%20Methods)  
 📌 **Concepts Covered**:
 - Function declaration and definition
 - Method overloading
@@ -98,11 +98,11 @@ Each lecture contains a **VS_Questions** folder with solved problems for practic
 | **Lecture**   | **Question Folder(s)** |
 |--------------|----------------------|
 | **Lecture 01** | [`Lecture_01_VS_Questions`](https://github.com/prashantsaini1525/Alpha-Course-/tree/main/A.%20Java%20Basics/Lecture_01_Variables_and_DataTypes) |
-| **Lecture 02** | [`Lecture_02_VS_Questions`](Lecture_02_Operators/Lecture_02_VS_Questions/) |
-| **Lecture 03** | [`Lecture_03_VS_Questions`](Lecture_03_Conditional_Statement/Lecture_03_VS_Questions/) <br> [`Lecture_03_VS_Questions_1`](Lecture_03_Conditional_Statement/Lecture_03_VS_Questions_1/) |
-| **Lecture 04** | [`Lecture_04_VS_Questions_0_while_loop`](Lecture_04_Loops_Flow_Control/Lecture_04_VS_Questions_0_while_loop/) <br> [`Lecture_04_VS_Questions_1`](Lecture_04_Loops_Flow_Control/Lecture_04_VS_Questions_1/) <br> [`Lecture_04_VS_Questions_2`](Lecture_04_Loops_Flow_Control/Lecture_04_VS_Questions_2/) |
-| **Lecture 05** | [`Lecture_05_VS_Questions_1`](Lecture_05_Patterns_Part_I/Lecture_05_VS_Questions_1/) |
-| **Lecture 06** | [`Lecture_06_VS_Questions_1`](Lecture_06_Function_Methods/Lecture_06_VS_Questions_1/) |
+| **Lecture 02** | [`Lecture_02_VS_Questions`](https://github.com/prashantsaini1525/Alpha-Course-/tree/main/A.%20Java%20Basics/Lecture_02_Operators/Lecture_02_VS_Questions) |
+| **Lecture 03** | [`Lecture_03_VS_Questions`](https://github.com/prashantsaini1525/Alpha-Course-/tree/main/A.%20Java%20Basics/Lecture_03_Conditional_Statement/Lecture_03_VS_Questions) <br> [`Lecture_03_VS_Questions_1`](https://github.com/prashantsaini1525/Alpha-Course-/tree/main/A.%20Java%20Basics/Lecture_03_Conditional_Statement/Lecture_03_VS_Questions1) |
+| **Lecture 04** | [`Lecture_04_VS_Questions_0_while_loop`](https://github.com/prashantsaini1525/Alpha-Course-/tree/main/A.%20Java%20Basics/Lecture_04_Loops_Flow_Control/Lecture_04_VS_Questions_0_while_loop) <br> [`Lecture_04_VS_Questions_1`](https://github.com/prashantsaini1525/Alpha-Course-/tree/main/A.%20Java%20Basics/Lecture_04_Loops_Flow_Control/Lecture_04_VS_Questions_1) <br> [`Lecture_04_VS_Questions_2`](https://github.com/prashantsaini1525/Alpha-Course-/tree/main/A.%20Java%20Basics/Lecture_04_Loops_Flow_Control/Lecture_04_VS_Questions_2) |
+| **Lecture 05** | [`Lecture_05_VS_Questions_1`](https://github.com/prashantsaini1525/Alpha-Course-/tree/main/A.%20Java%20Basics/Lecture_05_Patterns_Part_I/Lecture_05_VS_Questions_1) |
+| **Lecture 06** | [`Lecture_06_VS_Questions_1`](https://github.com/prashantsaini1525/Alpha-Course-/tree/main/A.%20Java%20Basics/Lecture_06_Function%20_%20Methods/Lecture_06_VS_Questions_1) |
 
 ---
 
