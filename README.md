@@ -92,7 +92,7 @@ Each lecture contains:
 
 ---
 
-## Lecture 07 - Patterns (Part II) Questions 
+## Lecture 07 - Patterns (Part II) 
 📌 **Videos**: Lecture_07_Video_01 to Lecture_07_Video_07  
 📌 **Code Folder**: [`Lecture_07_Patterns_Part_II`](https://github.com/prashantsaini1525/Alpha-Course-2025/tree/main/A.%20Java%20Basics/Lecture_07_Patterns_Part_II)  
 📌 **Concepts Covered**:
