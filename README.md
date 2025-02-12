@@ -18,7 +18,7 @@ Welcome to the **Java Programming - Alpha Course**! This course will guide you t
 - [Lecture 04 - Loops (Flow Control)](#lecture-04---loops-flow-control)
 - [Lecture 05 - Patterns (Part I)](#lecture-05---patterns-part-i)
 - [Lecture 06 - Functions & Methods](#lecture-06---functions--methods)
-- [Lecture 07 - Patterns (Part II)](#lecture-07---patterns--part-ii)
+- [Lecture 07 - Patterns (Part II)](#lecture-07---patterns-part-ii)
 - [💡 Exercises & Solved Questions](#-exercises--solved-questions)
 
 ---
