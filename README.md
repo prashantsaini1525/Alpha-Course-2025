@@ -83,11 +83,27 @@ Each lecture contains:
 
 ## Lecture 06 - Functions & Methods
 📌 **Videos**: Lecture_06_Video_01 to Lecture_06_Video_22  
-📌 **Code Folder**: [`Lecture_06_Function _ Methods`](https://github.com/prashantsaini1525/Alpha-Course-/tree/main/A.%20Java%20Basics/Lecture_06_Function%20_%20Methods)  
+📌 **Code Folder**: [`Lecture_06_Function_Methods`](https://github.com/prashantsaini1525/Alpha-Course-/tree/main/A.%20Java%20Basics/Lecture_06_Function%20_%20Methods)  
 📌 **Concepts Covered**:
 - Function declaration and definition
 - Method overloading
 - Return types and arguments  
+
+---
+
+## Lecture 07 - Patterns (Part II) Questions 
+📌 **Videos**: Lecture_07_Video_01 to Lecture_07_Video_07  
+📌 **Code Folder**: [`Lecture_07_Patterns_Part_II`](https://github.com/prashantsaini1525/Alpha-Course-2025/tree/main/A.%20Java%20Basics/Lecture_07_Patterns_Part_II)  
+📌 **Concepts Covered**:
+- Hollow Rectangle Pattern
+- Inverted And Rotated Half Pyramid
+- Inverted Half Pyramid Pattern with Numbers
+- Floyd_s Triangle Pattern
+- (0-1) Triangle Pattern
+- Butterfly Pattern
+- Solid Rhombus Pattern
+- Hollow Rhombus Pattern
+- Diamond Pattern
 
 ---
 
@@ -103,6 +119,7 @@ Each lecture contains a **VS_Questions** folder with solved problems for practic
 | **Lecture 04** | [`Lecture_04_VS_Questions_0_while_loop`](https://github.com/prashantsaini1525/Alpha-Course-/tree/main/A.%20Java%20Basics/Lecture_04_Loops_Flow_Control/Lecture_04_VS_Questions_0_while_loop) <br> [`Lecture_04_VS_Questions_1`](https://github.com/prashantsaini1525/Alpha-Course-/tree/main/A.%20Java%20Basics/Lecture_04_Loops_Flow_Control/Lecture_04_VS_Questions_1) <br> [`Lecture_04_VS_Questions_2`](https://github.com/prashantsaini1525/Alpha-Course-/tree/main/A.%20Java%20Basics/Lecture_04_Loops_Flow_Control/Lecture_04_VS_Questions_2) |
 | **Lecture 05** | [`Lecture_05_VS_Questions_1`](https://github.com/prashantsaini1525/Alpha-Course-/tree/main/A.%20Java%20Basics/Lecture_05_Patterns_Part_I/Lecture_05_VS_Questions_1) |
 | **Lecture 06** | [`Lecture_06_VS_Questions_1`](https://github.com/prashantsaini1525/Alpha-Course-/tree/main/A.%20Java%20Basics/Lecture_06_Function%20_%20Methods/Lecture_06_VS_Questions_1) |
+| **Lecture 07** | [`Lecture_07_Patterns_Part_II`](https://github.com/prashantsaini1525/Alpha-Course-2025/tree/main/A.%20Java%20Basics/Lecture_07_Patterns_Part_II) |
 
 ---
 
