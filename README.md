@@ -23,7 +23,7 @@ Welcome to the **Java Programming - Alpha Course**! This course will guide you t
 
 ---
 
-## 📖 Introduction
+## Introduction
 
 Each lecture contains:  
 ✅ **Concept explanations**  
