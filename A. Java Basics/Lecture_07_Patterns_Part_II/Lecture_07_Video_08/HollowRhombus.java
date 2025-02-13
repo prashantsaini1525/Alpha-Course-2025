@@ -19,6 +19,6 @@ public class HollowRhombus {
         }
     }
     public static void main(String[] args) {
-        hollow_rhombus(5);
+        hollow_rhombus(4);
     }
 }
