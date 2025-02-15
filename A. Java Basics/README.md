@@ -105,7 +105,7 @@ This foundation is essential for any aspiring Java developer and will serve as a
 
 ## Lecture 06 - Functions & Methods
 📌 **Videos:** Lecture_06_Video_01 to Lecture_06_Video_22  
-📌 **Code Folder:** [Lecture_06_Function_Methods](https://github.com/prashantsaini1525/Alpha-Course-/tree/main/A.%20Java%20Basics/Lecture_06_Function%20_%20Methods)  
+📌 **Code Folder:** [Lecture_06_Function_Methods](https://github.com/prashantsaini1525/Alpha-Course-/tree/main/A.%20Java%20Basics/Lecture_06_Function_Methods)  
 📌 **Concepts Covered:**
 - Function declaration and definition
 - Method overloading
