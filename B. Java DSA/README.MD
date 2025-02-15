@@ -1,19 +1,19 @@
-# Data Structures & Algorithms
+# Java Programming - Alpha Course (Data Structures & Algorithms)
 
-Welcome to the **Data Structures & Algorithms**! This repository contains lecture videos, code examples, and practice exercises to help you understand and implement the core concepts of DSA.
+Welcome to the **Java Programming - Alpha Course (Data Structures & Algorithms)**! This repository contains lecture videos, code examples, and practice exercises to help you understand and implement the core concepts of DSA.
 
 ---
 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Topic 01 - Arrays](#topic-01---arrays)
-- [Topic 02 - Linked Lists](#topic-02---linked-lists)
-- [Topic 03 - Stacks and Queues](#topic-03---stacks-and-queues)
-- [Topic 04 - Trees](#topic-04---trees)
-- [Topic 05 - Sorting Algorithms](#topic-05---sorting-algorithms)
-- [Topic 06 - Searching Algorithms](#topic-06---searching-algorithms)
-- [Topic 07 - Graphs](#topic-07---graphs)
+- [Lecture 07 - Arrays](#lecture-07---arrays)
+- [Lecture 08 - Basic Sorting Algorithms](#lecture-08---basic-sorting-algorithms)
+- [Lecture 09 - 2-D Arrays](#lecture-09---2-d-arrays)
+- [Lecture 10 - Strings](#lecture-10---strings)
+- [Lecture 11 - Bit Manipulation](#lecture-11---bit-manipulation)
+- [Lecture 12 - OOPS](#lecture-12---oops)
+- [Lecture 13 - Recursion](#lecture-13---recursion)
 - [Exercises & Practice Problems](#exercises--practice-problems)
 - [How to Use This Course](#how-to-use-this-course)
 - [License & Contributing](#license--contributing)
@@ -28,9 +28,9 @@ This course is designed to introduce you to the key data structures and algorith
 
 ---
 
-## Topic 01 - Arrays
+## Lecture 07 - Arrays
 📌 **Videos**: Arrays_Video_01 to Arrays_Video_10  
-📌 **Code Folder**: [`Topic_01_Arrays`](https://github.com/username/DSA-Course/tree/main/Topic_01_Arrays)  
+📌 **Code Folder**: [`Lecture_07_Arrays`](https://github.com/username/DSA-Course/tree/main/Lecture_07_Arrays)  
 📌 **Concepts Covered**:
 - Definition and declaration of arrays
 - Array operations: traversal, insertion, deletion
@@ -39,42 +39,9 @@ This course is designed to introduce you to the key data structures and algorith
 
 ---
 
-## Topic 02 - Linked Lists
-📌 **Videos**: LinkedLists_Video_01 to LinkedLists_Video_12  
-📌 **Code Folder**: [`Topic_02_Linked_Lists`](https://github.com/username/DSA-Course/tree/main/Topic_02_Linked_Lists)  
-📌 **Concepts Covered**:
-- Singly linked lists
-- Doubly linked lists
-- Circular linked lists
-- Implementation of basic operations (insertion, deletion, search)
-
----
-
-## Topic 03 - Stacks and Queues
-📌 **Videos**: StacksQueues_Video_01 to StacksQueues_Video_08  
-📌 **Code Folder**: [`Topic_03_Stacks_Queues`](https://github.com/username/DSA-Course/tree/main/Topic_03_Stacks_Queues)  
-📌 **Concepts Covered**:
-- Stack operations (push, pop, peek)
-- Queue operations (enqueue, dequeue)
-- Applications of stacks and queues
-- Implementation using arrays and linked lists
-
----
-
-## Topic 04 - Trees
-📌 **Videos**: Trees_Video_01 to Trees_Video_15  
-📌 **Code Folder**: [`Topic_04_Trees`](https://github.com/username/DSA-Course/tree/main/Topic_04_Trees)  
-📌 **Concepts Covered**:
-- Binary trees
-- Binary search trees (BST)
-- Tree traversals (inorder, preorder, postorder)
-- Introduction to balanced trees (AVL, Red-Black Trees)
-
----
-
-## Topic 05 - Sorting Algorithms
+## Lecture 08 - Basic Sorting Algorithms
 📌 **Videos**: Sorting_Video_01 to Sorting_Video_10  
-📌 **Code Folder**: [`Topic_05_Sorting`](https://github.com/username/DSA-Course/tree/main/Topic_05_Sorting)  
+📌 **Code Folder**: [`Lecture_08_Sorting`](https://github.com/username/DSA-Course/tree/main/Lecture_08_Sorting)  
 📌 **Concepts Covered**:
 - Bubble Sort, Insertion Sort, Selection Sort
 - Merge Sort and Quick Sort
@@ -82,41 +49,74 @@ This course is designed to introduce you to the key data structures and algorith
 
 ---
 
-## Topic 06 - Searching Algorithms
-📌 **Videos**: Searching_Video_01 to Searching_Video_07  
-📌 **Code Folder**: [`Topic_06_Searching`](https://github.com/username/DSA-Course/tree/main/Topic_06_Searching)  
+## Lecture 09 - 2-D Arrays
+📌 **Videos**: TwoDArrays_Video_01 to TwoDArrays_Video_08  
+📌 **Code Folder**: [`Lecture_09_2D_Arrays`](https://github.com/username/DSA-Course/tree/main/Lecture_09_2D_Arrays)  
 📌 **Concepts Covered**:
-- Linear search
-- Binary search
-- Advanced searching techniques
-- Complexity analysis of search algorithms
+- Introduction to 2-D arrays
+- Matrix operations
+- Spiral and diagonal traversal
+- Solving 2-D array problems
 
 ---
 
-## Topic 07 - Graphs
-📌 **Videos**: Graphs_Video_01 to Graphs_Video_12  
-📌 **Code Folder**: [`Topic_07_Graphs`](https://github.com/username/DSA-Course/tree/main/Topic_07_Graphs)  
+## Lecture 10 - Strings
+📌 **Videos**: Strings_Video_01 to Strings_Video_10  
+📌 **Code Folder**: [`Lecture_10_Strings`](https://github.com/username/DSA-Course/tree/main/Lecture_10_Strings)  
 📌 **Concepts Covered**:
-- Graph representations (adjacency list, matrix)
-- Graph traversal: BFS and DFS
-- Shortest path algorithms (Dijkstra, Bellman-Ford)
-- Minimum Spanning Trees (Kruskal, Prim)
+- String basics and operations
+- Character arrays vs. Strings
+- Substring search algorithms
+- String manipulation problems
+
+---
+
+## Lecture 11 - Bit Manipulation
+📌 **Videos**: BitManipulation_Video_01 to BitManipulation_Video_08  
+📌 **Code Folder**: [`Lecture_11_Bit_Manipulation`](https://github.com/username/DSA-Course/tree/main/Lecture_11_Bit_Manipulation)  
+📌 **Concepts Covered**:
+- Bitwise operators
+- Applications of bit manipulation
+- Finding unique elements
+- Efficient power calculations
+
+---
+
+## Lecture 12 - OOPS
+📌 **Videos**: OOPS_Video_01 to OOPS_Video_12  
+📌 **Code Folder**: [`Lecture_12_OOPS`](https://github.com/username/DSA-Course/tree/main/Lecture_12_OOPS)  
+📌 **Concepts Covered**:
+- Object-Oriented Programming (OOP) basics
+- Classes and objects
+- Inheritance, polymorphism, encapsulation
+- Abstraction and interfaces
+
+---
+
+## Lecture 13 - Recursion
+📌 **Videos**: Recursion_Video_01 to Recursion_Video_15  
+📌 **Code Folder**: [`Lecture_13_Recursion`](https://github.com/username/DSA-Course/tree/main/Lecture_13_Recursion)  
+📌 **Concepts Covered**:
+- Introduction to recursion
+- Recursive functions and base cases
+- Backtracking techniques
+- Solving problems using recursion
 
 ---
 
 ## Exercises & Practice Problems
 
-Each topic includes a set of practice problems and solved examples. These are located in each topic’s folder under an `Exercises` subdirectory.
+Each topic includes a set of practice problems and solved examples. These are located in each lecture’s folder under an `Exercises` subdirectory.
 
-| **Topic**         | **Practice Problems Folder** |
-|-------------------|------------------------------|
-| **Arrays**        | [`Arrays_Exercises`](https://github.com/username/DSA-Course/tree/main/Topic_01_Arrays/Exercises) |
-| **Linked Lists**  | [`LinkedLists_Exercises`](https://github.com/username/DSA-Course/tree/main/Topic_02_Linked_Lists/Exercises) |
-| **Stacks & Queues** | [`Stacks_Queues_Exercises`](https://github.com/username/DSA-Course/tree/main/Topic_03_Stacks_Queues/Exercises) |
-| **Trees**         | [`Trees_Exercises`](https://github.com/username/DSA-Course/tree/main/Topic_04_Trees/Exercises) |
-| **Sorting**       | [`Sorting_Exercises`](https://github.com/username/DSA-Course/tree/main/Topic_05_Sorting/Exercises) |
-| **Searching**     | [`Searching_Exercises`](https://github.com/username/DSA-Course/tree/main/Topic_06_Searching/Exercises) |
-| **Graphs**        | [`Graphs_Exercises`](https://github.com/username/DSA-Course/tree/main/Topic_07_Graphs/Exercises) |
+| **Lecture**          | **Practice Problems Folder** |
+|----------------------|------------------------------|
+| **Arrays**          | [`Lecture_07_Exercises`](https://github.com/username/DSA-Course/tree/main/Lecture_07_Arrays/Exercises) |
+| **Sorting**         | [`Lecture_08_Exercises`](https://github.com/username/DSA-Course/tree/main/Lecture_08_Sorting/Exercises) |
+| **2-D Arrays**      | [`Lecture_09_Exercises`](https://github.com/username/DSA-Course/tree/main/Lecture_09_2D_Arrays/Exercises) |
+| **Strings**         | [`Lecture_10_Exercises`](https://github.com/username/DSA-Course/tree/main/Lecture_10_Strings/Exercises) |
+| **Bit Manipulation** | [`Lecture_11_Exercises`](https://github.com/username/DSA-Course/tree/main/Lecture_11_Bit_Manipulation/Exercises) |
+| **OOPS**            | [`Lecture_12_Exercises`](https://github.com/username/DSA-Course/tree/main/Lecture_12_OOPS/Exercises) |
+| **Recursion**       | [`Lecture_13_Exercises`](https://github.com/username/DSA-Course/tree/main/Lecture_13_Recursion/Exercises) |
 
 ---
 
@@ -140,3 +140,4 @@ Contributions are welcome—feel free to fork the repository and submit pull req
 ---
 
 *Created by Prashant Saini | Data Structures & Algorithms Course, 2025*
+
