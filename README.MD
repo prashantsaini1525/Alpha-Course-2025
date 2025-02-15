@@ -15,7 +15,7 @@ This repository is organized into three main sections:
   - Core Java concepts such as variables, data types, operators, and control structures.
   - Fundamental programming techniques including loops, conditional statements, and methods.
   - Hands-on coding examples and exercises to build a solid foundation.
-- **Resource:** [Java Basics README](./Java_Basics/README.md)
+- **Resource:** [Java Basics README](./A.%20Java%20Basics/README.MD)
 
 ### 2. Java DSA (Data Structures & Algorithms)
 *Master Data Structures and Algorithms in Java*
@@ -24,7 +24,7 @@ This repository is organized into three main sections:
   - Essential data structures (arrays, linked lists, stacks, queues, trees, graphs, etc.).
   - Algorithmic techniques including sorting, searching, recursion, and dynamic programming.
   - Practical problem-solving strategies and code demonstrations.
-- **Resource:** [Java DSA README](./Java_DSA/README.md)
+- **Resource:** [Java DSA README](./B.%20Java%20DSA/README.MD)
 
 ### 3. Java Questions Practice
 *Practice, Revise, and Master Coding Challenges*
@@ -33,20 +33,20 @@ This repository is organized into three main sections:
   - A wide range of practice questions, from basic Java concepts to advanced DSA and competitive programming problems.
   - Step-by-step solutions and detailed explanations.
   - Exercises to help you test and strengthen your coding skills.
-- **Resource:** [Java Questions README](./Java_Questions/README.md)
+- **Resource:** [Java Questions README](./C.%20Java%20DSA%20Questions%20Practice/README.MD)
 
 ---
 
 ## How to Navigate the Course
 
 1. **Start with Java Basics:**  
-   If you’re new to programming, begin with the [Java Basics](./Java_Basics/README.md) section to build a strong foundation.
+   If you’re new to programming, begin with the [Java Basics](./A.%20Java%20Basics/) section to build a strong foundation.
 
 2. **Advance to Java DSA:**  
-   Once you are comfortable with the basics, move on to the [Java DSA](./Java_DSA/README.md) section. Here, you'll learn about key data structures and algorithms essential for solving complex problems and excelling in technical interviews.
+   Once you are comfortable with the basics, move on to the [Java DSA](./B.%20Java%20DSA/) section. Here, you'll learn about key data structures and algorithms essential for solving complex problems and excelling in technical interviews.
 
 3. **Practice, Practice, Practice:**  
-   Finally, test your knowledge by working through the problems in the [Java Questions Practice](./Java_Questions/README.md) section. This collection of questions is designed to challenge you and improve your problem-solving skills.
+   Finally, test your knowledge by working through the problems in the [Java Questions Practice](./C.%20Java%20DSA%20Questions%20Practice/) section. This collection of questions is designed to challenge you and improve your problem-solving skills.
 
 ---
 
@@ -90,5 +90,5 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Happy coding and best of luck on your journey to mastering Java!  
-*Created by [Your Name]*  
+*Created by Prashant Saini*  
 *© 2025 Java Programming - Alpha Course*
