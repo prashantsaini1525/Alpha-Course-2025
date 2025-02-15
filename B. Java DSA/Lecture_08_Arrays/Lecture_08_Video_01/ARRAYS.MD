@@ -90,16 +90,30 @@ for (int i = 0; i < numbers.length; i++) {
 
 Here are some basic operations you can perform on arrays:
 
-- 1. **Traversing an Array:** Loop through each element to process or display it.
-- 2. **Searching:** Find an element by checking each value (e.g., using a linear search).
-- 3. **Modifying Elements:** Update the value at a specific index.
-- 4. **Sorting:** Arrange elements in a specific order (e.g., ascending or descending).
+1. **Traversing an Array:** 
+Loop through each element to process or display it.
+
+2. **Searching:** 
+Find an element by checking each value (e.g., using a linear search).
+
+3. **Modifying Elements:** 
+Update the value at a specific index.
+
+4. **Sorting:** 
+Arrange elements in a specific order (e.g., ascending or descending).
 
 ## Practice Exercises
 
 Try these exercises to reinforce your learning:
 
-1. **Print Array:** Write a program to print all elements of an array.
-2. **Find Maximum:** Write a method to find the maximum value in an array.
-3. **Sum of Elements:** Write a program that calculates the sum of all numbers in an array.
-4. **Linear Search:** Implement a linear search to find the index of a specific value.
+1. **Print Array:**
+Write a program to print all elements of an array.
+
+2. **Find Maximum:** 
+Write a method to find the maximum value in an array.
+
+3. **Sum of Elements:** 
+Write a program that calculates the sum of all numbers in an array.
+
+4. **Linear Search:** 
+Implement a linear search to find the index of a specific value.
