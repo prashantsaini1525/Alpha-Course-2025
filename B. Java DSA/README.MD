@@ -1,6 +1,6 @@
-# Data Structures & Algorithms
+# Java Programming - Alpha Course (Data Structures & Algorithms)
 
-Welcome to the **Data Structures & Algorithms**! This repository contains lecture videos, code examples, and practice exercises to help you understand and implement the core concepts of DSA.
+Welcome to the **Java Programming - Alpha Course (Data Structures & Algorithms)**! This repository contains lecture videos, code examples, and practice exercises to help you understand and implement the core concepts of DSA.
 
 ---
 
