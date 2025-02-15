@@ -30,7 +30,7 @@ This course is designed to introduce you to the key data structures and algorith
 
 ## Lecture 08 - Arrays
 📌 **Videos**: Arrays_Video_01 to Arrays_Video_10  
-📌 **Code Folder**: [`Lecture_08_Arrays`](https://github.com/username/DSA-Course/tree/main/Lecture_08_Arrays)  
+📌 **Code Folder**: [`Lecture_08_Arrays`](https://github.com/prashantsaini1525/Alpha-Course-2025/tree/main/B.%20Java%20DSA/Lecture_08_Arrays)  
 📌 **Concepts Covered**:
 - Definition and declaration of arrays
 - Array operations: traversal, insertion, deletion
@@ -41,7 +41,7 @@ This course is designed to introduce you to the key data structures and algorith
 
 ## Lecture 09 - Basic Sorting Algorithms
 📌 **Videos**: Sorting_Video_01 to Sorting_Video_10  
-📌 **Code Folder**: [`Lecture_09_Sorting`](https://github.com/username/DSA-Course/tree/main/Lecture_09_Sorting)  
+📌 **Code Folder**: [`Lecture_09_Sorting`](https://github.com/prashantsaini1525/Alpha-Course-2025/tree/main/B.%20Java%20DSA/Lecture_08_Arrays)  
 📌 **Concepts Covered**:
 - Bubble Sort, Insertion Sort, Selection Sort
 - Merge Sort and Quick Sort
@@ -51,7 +51,7 @@ This course is designed to introduce you to the key data structures and algorith
 
 ## Lecture 10 - 2-D Arrays
 📌 **Videos**: TwoDArrays_Video_01 to TwoDArrays_Video_08  
-📌 **Code Folder**: [`Lecture_10_2D_Arrays`](https://github.com/username/DSA-Course/tree/main/Lecture_10_2D_Arrays)  
+📌 **Code Folder**: [`Lecture_10_2D_Arrays`](https://github.com/prashantsaini1525/Alpha-Course-2025/tree/main/B.%20Java%20DSA/Lecture_08_Arrays)  
 📌 **Concepts Covered**:
 - Introduction to 2-D arrays
 - Row and column operations
@@ -61,7 +61,7 @@ This course is designed to introduce you to the key data structures and algorith
 
 ## Lecture 11 - Strings
 📌 **Videos**: Strings_Video_01 to Strings_Video_10  
-📌 **Code Folder**: [`Lecture_11_Strings`](https://github.com/username/DSA-Course/tree/main/Lecture_11_Strings)  
+📌 **Code Folder**: [`Lecture_11_Strings`](https://github.com/prashantsaini1525/Alpha-Course-2025/tree/main/B.%20Java%20DSA/Lecture_08_Arrays)  
 📌 **Concepts Covered**:
 - String operations and methods
 - String manipulation problems
@@ -71,7 +71,7 @@ This course is designed to introduce you to the key data structures and algorith
 
 ## Lecture 12 - Bit Manipulation
 📌 **Videos**: BitManipulation_Video_01 to BitManipulation_Video_07  
-📌 **Code Folder**: [`Lecture_12_Bit_Manipulation`](https://github.com/username/DSA-Course/tree/main/Lecture_12_Bit_Manipulation)  
+📌 **Code Folder**: [`Lecture_12_Bit_Manipulation`](https://github.com/prashantsaini1525/Alpha-Course-2025/tree/main/B.%20Java%20DSA/Lecture_08_Arrays)  
 📌 **Concepts Covered**:
 - Bitwise operators
 - Applications of bitwise operations
@@ -81,7 +81,7 @@ This course is designed to introduce you to the key data structures and algorith
 
 ## Lecture 13 - OOPS
 📌 **Videos**: OOPS_Video_01 to OOPS_Video_12  
-📌 **Code Folder**: [`Lecture_13_OOPS`](https://github.com/username/DSA-Course/tree/main/Lecture_13_OOPS)  
+📌 **Code Folder**: [`Lecture_13_OOPS`](https://github.com/prashantsaini1525/Alpha-Course-2025/tree/main/B.%20Java%20DSA/Lecture_08_Arrays)  
 📌 **Concepts Covered**:
 - Object-oriented programming concepts
 - Classes and objects
@@ -91,7 +91,7 @@ This course is designed to introduce you to the key data structures and algorith
 
 ## Lecture 14 - Recursion
 📌 **Videos**: Recursion_Video_01 to Recursion_Video_10  
-📌 **Code Folder**: [`Lecture_14_Recursion`](https://github.com/username/DSA-Course/tree/main/Lecture_14_Recursion)  
+📌 **Code Folder**: [`Lecture_14_Recursion`](https://github.com/prashantsaini1525/Alpha-Course-2025/tree/main/B.%20Java%20DSA/Lecture_08_Arrays)  
 📌 **Concepts Covered**:
 - Understanding recursion
 - Recursive problem-solving
