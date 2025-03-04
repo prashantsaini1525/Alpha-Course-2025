@@ -1,28 +1,30 @@
-public class MaxSubArraySum1 {
+
+public class MaxSubArraySum2 {
+
     public static void maxSubArraySum(int numbers[]) {
         int ts = 0;
         int currSum = 0;
         int maxSum = Integer.MIN_VALUE; //- infinity
         int minSum = Integer.MAX_VALUE; //+ infinity
 
-        for (int i = 0; i < numbers.length; i++) { //outer loop for each number
-            for (int j = i; j < numbers.length; j++) { //print //inner
+        for (int i = 0; i < numbers.length; i++) { //outer loop
+            for (int j = i; j < numbers.length; j++) {
                 currSum = 0;
                 System.out.print("[");
                 for (int k = i; k <= j; k++) {
                     System.out.print(numbers[k] + (k == j ? "" : ", "));//subarrays
-                    
+
                     //subarray sum
                     currSum += numbers[k];
                 }
                 System.out.println("] -> Sum: " + currSum); // Print subarray and its sum
                 //update maxSum if current sum is greater
-                if(maxSum < currSum) {
+                if (maxSum < currSum) {
                     maxSum = currSum;
-                } 
-                if (currSum < minSum) {
+                }
+                if (minSum > currSum) {
                     minSum = currSum;
-                }                
+                }
                 ts++; //total subarrays printed
                 // System.out.println();
             }
@@ -35,7 +37,8 @@ public class MaxSubArraySum1 {
     }
 
     public static void main(String[] args) {
-        int numbers[] = {1, -2, 6, -1, 3};
+        // int numbers[] = {-8, -3, -6, -2, -5, -4};
+        int numbers[] = {-8, 3};
         maxSubArraySum(numbers);
     }
 }
