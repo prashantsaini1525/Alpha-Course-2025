@@ -1,3 +1,5 @@
+//time Complexity for this code is O(n^2)
+//space Complexity for this code is O(n)
 public class MaxSubArrayPrefixSum2 {
     public static void maxSubarraySum(int numbers[]) {
         int ts = 0;
